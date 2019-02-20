@@ -1,0 +1,11 @@
+{
+  "vue": {
+    "registry": "http://gitlab.10jqka.com.cn/b2c-FE/vue.git"
+  },
+  "nodejs": {
+    "registry": "http://gitlab.10jqka.com.cn:b2c-FE-Template/nodejs"
+  },
+  "vue3": {
+    "registry": "http://gitlab.10jqka.com.cn/lvxiaocong/vue3.git"
+  }
+}
